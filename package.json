@@ -1,0 +1,20 @@
+{
+  "name": "zc-skill-cover-letter",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "license": "MIT",
+  "description": "求职信 / 沟通话术 — portable MCP + Skill",
+  "bin": {
+    "zc-skill-cover-letter": "./stdio_mcp_server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "mcp",
+    "skill",
+    "career",
+    "cover-letter"
+  ]
+}
